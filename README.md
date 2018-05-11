@@ -88,17 +88,29 @@
 ## 技能点
 
 **熟练掌握页面布局，重构，浏览器兼容**
+
 **熟练掌握HTML5,CSS3,响应式布局，flex布局，vw,rem移动端适配及动画实现**
+
 **熟练掌握javascript,熟悉面向对象编程，掌握ES6语法，提高代码质量，使用babel进行代码编译，熟悉Promise,async,awit等API进行异步处理**
+
 **熟练使用Vue全家桶（vuex,vue-router等）进行SPA开发，可编写Vue可复用组件，提高项目开发效率，熟悉react及react-native，理解MVVM框架响应式的实现原理，理解虚拟DOM实现方式**
+
 **掌握SASS,LESS CSS类库，进行项目主题定制，移动端适配单位转换等**
+
 **熟练使用Webpack 进行项目构建打包，使用Grunt,gulp进行任务处理，处理项目物料等**
+
 **掌握Node.js, Mysql 使用过Express进行个人项目开发，熟悉Koa2框架。配合GM 包，mysql数据库实现服务端图片合成，添加滤镜等**
+
 **掌握使用Puppeteer 工具包做爬虫抓取数据**
+
 **熟悉微信小程序开发，熟悉微信JS SDK ,对小游戏也有一些的了解**
+
 **使用socket.io 进行实时通信开发。实现多房间聊天室**
+
 **熟练使用各种UI组件库，如YDUI,VUX,Antd,iView,ElementUI等**
+
 **使用Echart4 进行数据可视化开发， 实现公司项目统计信息的展示**
+
 **了解PWA开发**
 
 ## 学历教育
